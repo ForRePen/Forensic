@@ -5,6 +5,7 @@
 * Get Os Version: HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\CurrentVersion
 * Get Os Name: HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\ProductName
 * Get Service pack: HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Windows\\CSDVersion 
+* Get WMI namespaces: HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Wbem\\CIMOM\\SecuredHostProviders\\
 
 ## Update
 
