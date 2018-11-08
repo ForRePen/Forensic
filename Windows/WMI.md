@@ -1,5 +1,13 @@
 # WMI
 
+## Commands
+
+List installed KB
+
+```bash
+wmic qfe list full
+```
+
 ## Links
 
 * https://www.eideon.com/2018-03-02-THL03-WMIBackdoors/
