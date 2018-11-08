@@ -81,3 +81,4 @@ wmic STARTUP GET Caption, Command, User                       # get start on boo
 * https://conference.hitb.org/hitbsecconf2018ams/materials/D2T1%20-%20Philip%20Tsukerman%20-%20Expanding%20Your%20WMI%20Lateral%20Movement%20Arsenal.pdf
 * https://repo.zenk-security.com/Forensic/DEFCON-23-WMI-Attacks-Defense-Forensics.pdf
 * https://www.andreafortuna.org/dfir/windows-command-line-cheatsheet-part-2-wmic/
+* http://neophob.com/2010/03/wmi-query-windows-securitycenter2/
