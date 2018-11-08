@@ -17,6 +17,7 @@ wmic os list brief                                            # Wubdiws version 
 
 wmic product list brief                                       # installed programs  
 wmic qfe list full                                            # installed KB
+wmic /Namespace:\\root\SecurityCenter2 Path AntiVirusProduct Get displayName # get installed antivirus
 
 wmic group list brief                                         # list groups on local system
 wmic useraccount list                                         # list users on local system
