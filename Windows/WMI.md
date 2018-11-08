@@ -40,10 +40,12 @@ wmic process where (Name=’svchost.exe’) get name,processid    # get list of 
 
 ### Service
 
+```bash
 wmic service list                                             # list services
 wmic service where StartMode=”Auto” get name, state           # list services that are set to start automatically
 wmic service get caption, name, startmode, state              # get start mode of service
 wmic service where (state=”running”) get caption, name        # get running service info
+```
 
 ### Event
 
