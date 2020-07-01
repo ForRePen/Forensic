@@ -26,6 +26,7 @@ Links:
 - https://digitalguardian.com/blog/threat-hunting-mitres-attck-framework-part-1
 - https://digitalguardian.com/blog/threat-hunting-mitres-attck-framework-part-2-–-advanced-use-cases
 - https://digitalguardian.com/blog/threat-hunting-mitre-attck-framework-part-3-high-fidelity
+- https://www.13cubed.com/
 
 ## Windows Privileges
 
@@ -66,3 +67,6 @@ Links:
 
 - https://securitybytes.io/blue-team-fundamentals-part-two-windows-processes-759fe15965e2
 
+## Windows 10 Timeline
+
+- https://dfrws.org/wp-content/uploads/2019/11/2019_USA_pres-an_incomplete_tour_of_the_windows_10_activity_timeline.pdf
