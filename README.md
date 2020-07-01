@@ -27,21 +27,21 @@ Links:
 - https://digitalguardian.com/blog/threat-hunting-mitres-attck-framework-part-2-–-advanced-use-cases
 - https://digitalguardian.com/blog/threat-hunting-mitre-attck-framework-part-3-high-fidelity
 
-## Windows Privileges
+## Windows Privileges
 
 - https://medium.com/palantir/windows-privilege-abuse-auditing-detection-and-defense-3078a403d74e
 - https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/event.aspx?eventID=4704
 
-## Powershell
+## Powershell
 
 - https://www.crowdstrike.com/blog/investigating-powershell-command-and-script-logging/
 - https://www.blackhat.com/docs/us-14/materials/us-14-Kazanciyan-Investigating-Powershell-Attacks-WP.pdf
 
-## Logon Type
+## Logon Type
 
 - https://eventlogxp.com/blog/logon-type-what-does-it-mean/
 
-## Pass-The-Hash
+## Pass-The-Hash
 
 - https://ired.team/offensive-security-experiments/active-directory-kerberos-abuse/pass-the-hash-with-machine-accounts
 - https://blog.stealthbits.com/how-to-detect-pass-the-hash-attacks/
