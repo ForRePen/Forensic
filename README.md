@@ -66,6 +66,7 @@ Links:
 ## Windows Processes
 
 - https://securitybytes.io/blue-team-fundamentals-part-two-windows-processes-759fe15965e2
+- https://www.sans.org/reading-room/whitepapers/forensics/creating-baseline-process-activity-memory-forensics-35387
 
 ## Windows 10 Timeline
 
