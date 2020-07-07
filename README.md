@@ -54,6 +54,7 @@ Links:
 ## Kerberoasting
 
 - https://adsecurity.org/?p=3458
+- https://ruuand.github.io/Kerberoasting/
 
 ## Windows SID
 
