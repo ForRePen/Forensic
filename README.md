@@ -33,6 +33,7 @@ Links:
 - https://scriptdotsh.com/index.php/2018/06/09/active-directory-penetration-dojo-setup-of-ad-penetration-lab-part-1/
 - https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/cc731607(v=ws.10)
 - https://www.ssi.gouv.fr/uploads/IMG/pdf/NP_ActiveDirectory_NoteTech.pdf
+- https://www.sstic.org/media/SSTIC2012/SSTIC-actes/audit_ace_active_directory/SSTIC2012-Article-audit_ace_active_directory-de-drouas_capillon_2.pdf
 
 ## Windows Privileges
 
