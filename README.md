@@ -28,6 +28,12 @@ Links:
 - https://digitalguardian.com/blog/threat-hunting-mitre-attck-framework-part-3-high-fidelity
 - https://www.13cubed.com/
 
+## Active Directory
+
+- https://scriptdotsh.com/index.php/2018/06/09/active-directory-penetration-dojo-setup-of-ad-penetration-lab-part-1/
+- https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/cc731607(v=ws.10)
+- https://www.ssi.gouv.fr/uploads/IMG/pdf/NP_ActiveDirectory_NoteTech.pdf
+
 ## Windows Privileges
 
 - https://medium.com/palantir/windows-privilege-abuse-auditing-detection-and-defense-3078a403d74e
